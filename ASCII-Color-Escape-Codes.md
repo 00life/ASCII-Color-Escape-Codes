@@ -8,7 +8,7 @@ Followed by the command, somtimes delimited by opening square bracket ([), known
 Arguments are delimeted by semi colon (;).
 
 
-### Example:
+## Examples:
 
 - `\x1b[1;31m`  # Set style to **bold**, *red foreground*.
 - `\x1b[2;37;41m`  # Set style to **dimmed white foreground** with *red background*.
