@@ -1,7 +1,7 @@
 ## Standard escape codes are prefixed with Escape:
-|Ctrl-Key|Octal|
-|:--:|:---:|
-|`^[`|`\033`|
+|Ctrl-Key|Octal|Unicode|
+|:--:|:---:|:---:|
+|`^[`|`\033`|`\u001b`|
 - Ctrl-Key: `^[`
 - Octal: `\033`
 - Unicode: `\u001b`
