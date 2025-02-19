@@ -1,4 +1,4 @@
-# Standard escape codes are prefixed with Escape:
+## Standard escape codes are prefixed with Escape:
 
 Ctrl-Key: ^[
 Octal: \033
