@@ -1,12 +1,7 @@
 ## Standard escape codes are prefixed with Escape:
-|Ctrl-Key|Octal|Unicode|
-|:--:|:---:|:---:|
-|`^[`|`\033`|`\u001b`|
-- Ctrl-Key: `^[`
-- Octal: `\033`
-- Unicode: `\u001b`
-- Hexadecimal: `\x1B`
-- Decimal: `27`
+|Ctrl-Key|Octal|Unicode|Hexadecimal|Decimal|
+|:--:|:---:|:---:|:---:|:---:|
+|`^[`|`\033`|`\u001b`|`\x1B`|`27`|
 
 Followed by the command, somtimes delimited by opening square bracket ([), known as a Control Sequence Introducer (CSI), optionally followed by arguments and the command itself.
 
