@@ -12,7 +12,7 @@ Arguments are delimeted by semi colon (;).
 
 - `\x1b[1;31m`  # Set style to **bold**, *red foreground*.
 - `\x1b[2;37;41m`  # Set style to **dimmed white foreground** with *red background*.
-- `\x1b[32m Hello World \x1b[0m`  # Set style to **green font**.
+- `\033[32m Hello World \033[0m`  # Set style to **green font** then reset color.
 
 
 ## Color Codes
