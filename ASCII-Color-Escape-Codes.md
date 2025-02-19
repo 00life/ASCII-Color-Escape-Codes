@@ -18,8 +18,8 @@ Arguments are delimeted by semi colon (;).
 
 ## Color codes
 
-Color Name	Foreground Color Code	Background Color Code
-Black	30	40
+| Color Name | Foreground Color Code | Background Color Code |
+| Black |	30	| 40 |
 Red	31	41
 Green	32	42
 Yellow	33	43
