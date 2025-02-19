@@ -10,8 +10,8 @@ Arguments are delimeted by semi colon (;).
 
 ## Examples:
 
-- `\x1b[1;31m`  # Set style to **bold**, *red foreground*.
-- `\x1b[2;37;41m`  # Set style to **dimmed white foreground** with *red background*.
+- `\x1b[1;31m Hello World \x1b[0m`  # Set style to **bold**, *red foreground* then reset.
+- `\x1b[2;37;41m Hello World \x1b[0m`  # Set style to **dimmed white foreground** with *red background* then reset.
 - `\033[32m Hello World \033[0m`  # Set style to **green font** then reset color.
 
 
