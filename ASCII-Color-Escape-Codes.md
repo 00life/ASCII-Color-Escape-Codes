@@ -10,6 +10,21 @@ Followed by the command, somtimes delimited by opening square bracket ([), known
 
 Arguments are delimeted by semi colon (;).
 
+
 ### For example:
 
 - `\x1b[1;31m`  # Set style to **bold**, *red foreground*.
+
+
+## Color codes
+
+Color Name	Foreground Color Code	Background Color Code
+Black	30	40
+Red	31	41
+Green	32	42
+Yellow	33	43
+Blue	34	44
+Magenta	35	45
+Cyan	36	46
+White	37	47
+Default	39	49
