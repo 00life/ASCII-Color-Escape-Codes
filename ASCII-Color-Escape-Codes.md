@@ -12,4 +12,4 @@ Arguments are delimeted by semi colon (;).
 
 ### For example:
 
-- `\x1b[**1**;*31m*`  # Set style to **bold**, *red foreground*.
+- `\x1b[1;31m`  # Set style to **bold**, *red foreground*.
