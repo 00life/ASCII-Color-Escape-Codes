@@ -14,6 +14,7 @@ Arguments are delimeted by semi colon (;).
 ### For example:
 
 - `\x1b[1;31m`  # Set style to **bold**, *red foreground*.
+- `\x1b[2;37;41m`  # Set style to **dimmed white foreground** with *red background*.
 
 
 ## Color codes
