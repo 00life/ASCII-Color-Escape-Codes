@@ -30,13 +30,13 @@ Arguments are delimeted by semi colon (;).
 | Cyan	| 36	| 46 |---| 7 | set inverse/reverse mode. |
 | White	| 37 |	47 |---| 8 | set hidden/invisible mode. |
 | Default	| 39	| 49 |---| 9 |	set strikethrough mode. |
-| Bright Black | 90 |	100 |
-| Bright Red | 91	101 |
-| Bright Green |92 | 102 |
-| Bright Yellow |	93 | 103 |
-| Bright Blue | 94 | 104 |
-| Bright Magenta |	95 | 105 |
-| Bright Cyan |	96 | 106 |
-| Bright White | 97 |	107 |
+| Bright Black | 90 |	100 |---|---|---|
+| Bright Red | 91	| 101 |---|---|---|
+| Bright Green |92 | 102 |---|---|---|
+| Bright Yellow |	93 | 103 |---|---|---|
+| Bright Blue | 94 | 104 |---|---|---|
+| Bright Magenta | 95 | 105 |---|---|---|
+| Bright Cyan |	96 | 106 |---|---|---|
+| Bright White | 97 |	107 |---|---|---|
 
 
