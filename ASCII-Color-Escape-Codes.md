@@ -1,5 +1,8 @@
 ## Standard escape codes are prefixed with Escape:
 
+|:--:|
+|Ctrl-Key|
+|`^[`|
 - Ctrl-Key: `^[`
 - Octal: `\033`
 - Unicode: `\u001b`
